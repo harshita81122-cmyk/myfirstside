@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">JEC Kukas campus illustration</title>
+  <desc id="desc">A sunny campus with a central academic building, trees, and a walkway.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c7e6f4"/>
+      <stop offset="1" stop-color="#f5f8ee"/>
+    </linearGradient>
+    <linearGradient id="building" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fffaf0"/>
+      <stop offset="1" stop-color="#e9d8bd"/>
+    </linearGradient>
+    <linearGradient id="walk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e5d9bf"/>
+      <stop offset="1" stop-color="#c8b38d"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="620" fill="url(#sky)"/>
+  <circle cx="744" cy="112" r="54" fill="#f4bd55"/>
+  <path d="M0 335c140-70 250-46 370-12s214 42 330 2 155-34 200-11v116H0z" fill="#b9d8bc"/>
+  <rect y="380" width="900" height="240" fill="#83ae78"/>
+  <path d="M365 338h170l150 282H215z" fill="url(#walk)"/>
+  <path d="M422 339h56l34 281H388z" fill="#ede3cc" opacity=".7"/>
+  <g fill="#326c56">
+    <path d="M70 398h105v128H70z"/>
+    <circle cx="122" cy="365" r="69"/>
+    <circle cx="79" cy="395" r="45"/>
+    <circle cx="165" cy="398" r="48"/>
+    <path d="M716 400h93v127h-93z"/>
+    <circle cx="762" cy="362" r="65"/>
+    <circle cx="719" cy="397" r="43"/>
+    <circle cx="804" cy="395" r="43"/>
+  </g>
+  <g fill="#f2b544">
+    <circle cx="92" cy="349" r="8"/>
+    <circle cx="145" cy="380" r="7"/>
+    <circle cx="747" cy="344" r="8"/>
+    <circle cx="790" cy="376" r="7"/>
+  </g>
+  <rect x="232" y="214" width="436" height="177" rx="5" fill="#d2b996"/>
+  <rect x="246" y="226" width="408" height="157" fill="url(#building)"/>
+  <path d="M220 229 450 137l230 92z" fill="#173c5c"/>
+  <path d="M267 228 450 160l183 68z" fill="#245b7c"/>
+  <rect x="414" y="174" width="72" height="39" rx="2" fill="#f6efdc"/>
+  <path d="M430 212v-25a20 20 0 0 1 40 0v25z" fill="#577d91"/>
+  <rect x="275" y="251" width="350" height="8" fill="#d0b891"/>
+  <g fill="#6e9eb0" stroke="#ffffff" stroke-width="6">
+    <rect x="276" y="275" width="48" height="68" rx="2"/>
+    <rect x="350" y="275" width="48" height="68" rx="2"/>
+    <rect x="502" y="275" width="48" height="68" rx="2"/>
+    <rect x="576" y="275" width="48" height="68" rx="2"/>
+  </g>
+  <path d="M416 383v-72a34 34 0 0 1 68 0v72z" fill="#173c5c"/>
+  <rect x="433" y="328" width="34" height="55" fill="#d8e8e9"/>
+  <rect x="393" y="364" width="112" height="19" fill="#c8a96f"/>
+  <path d="M390 363h118l-12-12h-94z" fill="#e8d4ab"/>
+  <g fill="#e9f1df">
+    <circle cx="205" cy="424" r="8"/>
+    <circle cx="228" cy="452" r="6"/>
+    <circle cx="680" cy="432" r="8"/>
+    <circle cx="656" cy="464" r="6"/>
+    <circle cx="183" cy="492" r="7"/>
+    <circle cx="704" cy="502" r="7"/>
+  </g>
+  <rect x="340" y="541" width="220" height="46" rx="23" fill="#173c5c"/>
+  <text x="450" y="571" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2" text-anchor="middle">JEC KUKAS</text>
+</svg>
